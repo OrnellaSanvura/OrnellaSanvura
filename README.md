@@ -54,9 +54,9 @@ I'm learning how to turn raw data into meaningful information through data prepa
   <img src="https://img.shields.io/badge/04-Visualise%20%F0%9F%93%88-F43F5E?style=for-the-badge" alt="Step four visualise data" />
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>📊 Data science & analytics</h3>
       <ul>
         <li>Exploring datasets and finding patterns</li>
@@ -65,7 +65,7 @@ I'm learning how to turn raw data into meaningful information through data prepa
         <li>Charts, reporting, and communicating insights</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🧬 Data engineering foundations</h3>
       <ul>
         <li>SQL and relational databases</li>
@@ -83,30 +83,30 @@ I'm learning how to turn raw data into meaningful information through data prepa
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,visualstudio,js,html,css&perline=5" alt="Programming, database, and developer tool icons" />
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <th align="left">💻 Area</th>
-    <th align="left">🩷 Tools & skills</th>
+    <th align="center">💻 Area</th>
+    <th align="center">🩷 Tools & skills</th>
   </tr>
   <tr>
-    <td><strong>Programming</strong></td>
-    <td>Python, SQL, C#, C++, Java, JavaScript</td>
+    <td align="center"><strong>Programming</strong></td>
+    <td align="center">Python, SQL, C#, C++, Java, JavaScript</td>
   </tr>
   <tr>
-    <td><strong>Data management</strong></td>
-    <td>SQL Server, relational databases, data modelling, schema design</td>
+    <td align="center"><strong>Data management</strong></td>
+    <td align="center">SQL Server, relational databases, data modelling, schema design</td>
   </tr>
   <tr>
-    <td><strong>Data engineering</strong></td>
-    <td>ETL concepts, data warehousing, data transformation, data validation</td>
+    <td align="center"><strong>Data engineering</strong></td>
+    <td align="center">ETL concepts, data warehousing, data transformation, data validation</td>
   </tr>
   <tr>
-    <td><strong>Analytics foundations</strong></td>
-    <td>Data exploration, statistics, analytical reasoning, reporting and visualisation concepts</td>
+    <td align="center"><strong>Analytics foundations</strong></td>
+    <td align="center">Data exploration, statistics, analytical reasoning, reporting and visualisation concepts</td>
   </tr>
   <tr>
-    <td><strong>Developer tools</strong></td>
-    <td>Git, GitHub, Visual Studio, Visual Studio Code, SQL Server Management Studio</td>
+    <td align="center"><strong>Developer tools</strong></td>
+    <td align="center">Git, GitHub, Visual Studio, Visual Studio Code, SQL Server Management Studio</td>
   </tr>
 </table>
 
@@ -118,38 +118,38 @@ I'm learning how to turn raw data into meaningful information through data prepa
 
 ## 💎 Projects I'm proud to showcase
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3> <a href="https://github.com/OrnellaSanvura/database-project">Database Project</a></h3>
       <p>A database-focused project supporting my learning in structured data management and database concepts.</p>
       <p><strong>Data focus:</strong> SQL concepts, data organisation, database foundations.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3> <a href="https://github.com/OrnellaSanvura/CommunityLibrarySystem">Community Library System</a></h3>
       <p>A C# Windows Forms application for managing community library information.</p>
       <p><strong>Data focus:</strong> Records, input validation, information management.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3> <a href="https://github.com/OrnellaSanvura/bug-tracking-system">Bug Tracking System</a></h3>
       <p>A browser-based issue tracker that uses local storage to save and manage bug records.</p>
       <p><strong>Data focus:</strong> Structured records, CRUD operations, client-side persistence.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3> <a href="https://github.com/OrnellaSanvura/BaobabRidgeApp">Baobab Ridge App</a></h3>
       <p>A wildlife rehabilitation records application built with C# Windows Forms.</p>
       <p><strong>Data focus:</strong> Record validation, text-file handling, classification logic.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3> <a href="https://github.com/OrnellaSanvura/ORION-Space-Station-Management-System">ORION Space Station Management</a></h3>
       <p>A C# application project focused on organising operational information.</p>
       <p><strong>Focus:</strong> Application logic, structured information, software design.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3> <a href="https://github.com/OrnellaSanvura/Middle-Earth-Operations">Middle-Earth Operations</a></h3>
       <p>A C# project exploring operational management through a themed application.</p>
       <p><strong>Focus:</strong> C#, object-oriented programming, problem-solving.</p>
@@ -184,8 +184,10 @@ I'm learning how to turn raw data into meaningful information through data prepa
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OrnellaSanvura&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievement trophies in a matching theme" width="100%" />
+  <a href="https://github.com/OrnellaSanvura?tab=achievements"><img src="https://img.shields.io/badge/GitHub-View%20Achievements-9D174D?style=for-the-badge&logo=github&logoColor=FFE4E6" alt="View GitHub achievements on my profile" /></a>
 </p>
+
+<p align="center"><em>The third-party trophy image service may be unavailable, so this link replaces the broken image with a working route to your GitHub profile.</em></p>
 
 ## 🌷 How I approach data problems
 
