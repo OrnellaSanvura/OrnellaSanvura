@@ -1,77 +1,134 @@
 <!--
-  Ornella Sanvura | GitHub Profile README
-  Personal profile focused on computing, data, and software projects.
+  Ornella Sanvura | Data Science Student
+  A technical profile focused on data, analytics, databases, and continuous learning.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a2b,35:0f766e,70:22d3ee,100:071a2b&height=230&section=header&text=Ornella%20Sanvura&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=COMPUTING%20%7C%20DATA%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=14" alt="Navy and turquoise profile header for Ornella Sanvura" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120008,25:7f001b,55:e11d48,80:ff1744,100:1a0008&height=245&section=header&text=Ornella%20Sanvura&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20ANALYTICS%20%7C%20DATA%20ENGINEERING&descAlignY=58&descSize=14" alt="Dark red technical header for Ornella Sanvura, Data Science Student" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Second-year+BComp+student;Exploring+Data+Engineering+and+Analytics;Learning+by+building+real+projects" alt="Animated introduction about computing and data" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=FF4D6D&center=true&vCenter=true&width=780&lines=Second-year+BComp+%7C+Data+Science+Student;SQL+%7C+Data+Modelling+%7C+ETL;Exploring+Analytics%2C+Warehousing+%26+Data+Pipelines" alt="Animated data science student introduction" />
 </p>
 
 <p align="center">
-  <img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=OrnellaSanvura&size=180&backgroundColor=0f172a" alt="Pixel-art avatar for Ornella Sanvura" width="140" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding illustration" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding and technology illustration" width="300" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/OrnellaSanvura?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore my repositories" /></a>
-  <a href="https://github.com/OrnellaSanvura?tab=projects"><img src="https://img.shields.io/badge/GitHub-Projects-0A766E?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub projects" /></a>
+  <a href="https://github.com/OrnellaSanvura?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-26000B?style=for-the-badge&logo=github&logoColor=FF4D6D" alt="Explore repositories" /></a>
+  <a href="https://github.com/OrnellaSanvura/OrnellaSanvura/commits/main/"><img src="https://img.shields.io/badge/README-Commit%20History-9F1239?style=for-the-badge&logo=git&logoColor=white" alt="View README commit history" /></a>
 </p>
 
 ---
 
-## About me
+## `whoami`
 
-Hi, I'm **Ornella Sanvura**, a **second-year Bachelor of Computing (BComp) student at Belgium Campus iTversity**. I'm interested in data engineering, data analytics, databases, and software development.
+I'm **Ornella Sanvura**, a **second-year Bachelor of Computing (BComp) student at Belgium Campus iTversity**, specialising in Data Science.
 
-I use my coursework and personal projects to practise what I learn, improve my problem-solving skills, and build a stronger technical foundation. I'm still learning, and each project is an opportunity to grow.
+I'm building my knowledge of how data is stored, cleaned, transformed, analysed, and used to support decisions. My current interests include data analytics, data engineering, database design, data warehousing, and developing stronger Python and SQL skills.
+
+> `Turning raw data into organised information, useful insights, and better questions.`
+
+## Data science workflow
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Collect%20Data-45000F?style=for-the-badge" alt="Collect data" />
+  <img src="https://img.shields.io/badge/02-Clean%20%26%20Transform-7F1D1D?style=for-the-badge" alt="Clean and transform data" />
+  <img src="https://img.shields.io/badge/03-Explore%20%26%20Analyse-B91C1C?style=for-the-badge" alt="Explore and analyse data" />
+  <img src="https://img.shields.io/badge/04-Communicate%20Insights-F43F5E?style=for-the-badge" alt="Communicate insights" />
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>What I'm interested in</h3>
+      <h3>📊 Data & analytics</h3>
       <ul>
-        <li>Data engineering and data pipelines</li>
-        <li>Databases and data modelling</li>
-        <li>Data analytics and visualisation</li>
-        <li>Application and web development</li>
+        <li>Exploring datasets and identifying patterns</li>
+        <li>Data cleaning and preparation concepts</li>
+        <li>Analytical thinking and interpreting results</li>
+        <li>Presenting information clearly</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>How I learn</h3>
+      <h3>🗄️ Data engineering foundations</h3>
       <ul>
-        <li>Build projects through practical exercises</li>
-        <li>Break problems into smaller steps</li>
-        <li>Practise working with data and code</li>
-        <li>Improve through testing and feedback</li>
+        <li>Relational databases and SQL</li>
+        <li>Data modelling and schema design</li>
+        <li>ETL and data warehousing concepts</li>
+        <li>Structured data storage and validation</li>
       </ul>
     </td>
   </tr>
 </table>
+
+## Technical toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,visualstudio,js,html,css&perline=5" alt="Icons for Python, database tools, GitHub, editors, and web technologies" />
+</p>
+
+<table>
+  <tr>
+    <th align="left">Domain</th>
+    <th align="left">Tools & skills</th>
+  </tr>
+  <tr>
+    <td><strong>Programming</strong></td>
+    <td>Python, SQL, C#, C++, Java, JavaScript</td>
+  </tr>
+  <tr>
+    <td><strong>Data management</strong></td>
+    <td>SQL Server, relational databases, data modelling, schema design</td>
+  </tr>
+  <tr>
+    <td><strong>Data engineering</strong></td>
+    <td>ETL concepts, data warehousing, data transformation, data quality and validation</td>
+  </tr>
+  <tr>
+    <td><strong>Analytics foundations</strong></td>
+    <td>Data exploration, analytical reasoning, statistics, reporting and visualisation concepts</td>
+  </tr>
+  <tr>
+    <td><strong>Developer tools</strong></td>
+    <td>Git, GitHub, Visual Studio, Visual Studio Code, SQL Server Management Studio</td>
+  </tr>
+</table>
+
+*This toolkit reflects my current studies and project experience. I'm continuing to develop deeper practical experience with data science libraries and analytical methods.*
 
 ## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/OrnellaSanvura/CommunityLibrarySystem">Community Library System</a></h3>
-      <p>A C# Windows Forms application project for managing a community library.</p>
-      <p><strong>Focus:</strong> C#, Windows Forms, application development.</p>
+      <h3><a href="https://github.com/OrnellaSanvura/database-project">Database Project</a></h3>
+      <p>A database-focused project that supports my learning in structured data management and database concepts.</p>
+      <p><strong>Focus:</strong> Databases, SQL concepts, data organisation.</p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/OrnellaSanvura/CommunityLibrarySystem">Community Library System</a></h3>
+      <p>A C# Windows Forms application for managing community library information.</p>
+      <p><strong>Data connection:</strong> Organised records, input validation, information management.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/OrnellaSanvura/bug-tracking-system">Bug Tracking System</a></h3>
-      <p>A browser-based bug tracking project that uses local storage to save and manage issues.</p>
-      <p><strong>Focus:</strong> JavaScript, HTML, CSS, localStorage.</p>
+      <p>A browser-based issue tracking project using local storage to save and manage bug records.</p>
+      <p><strong>Data connection:</strong> Structured records, CRUD operations, client-side persistence.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OrnellaSanvura/BaobabRidgeApp">Baobab Ridge App</a></h3>
+      <p>A wildlife rehabilitation records application built with C# Windows Forms.</p>
+      <p><strong>Data connection:</strong> Record validation, text-file handling, classification logic.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/OrnellaSanvura/ORION-Space-Station-Management-System">ORION Space Station Management System</a></h3>
-      <p>A C# project focused on organising and managing space-station operations.</p>
-      <p><strong>Focus:</strong> C#, software design, application logic.</p>
+      <p>A C# application project focused on organising operational information.</p>
+      <p><strong>Focus:</strong> Application logic, structured information, software design.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/OrnellaSanvura/Middle-Earth-Operations">Middle-Earth Operations</a></h3>
@@ -79,83 +136,50 @@ I use my coursework and personal projects to practise what I learn, improve my p
       <p><strong>Focus:</strong> C#, object-oriented programming, problem-solving.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/OrnellaSanvura/database-project">Database Project</a></h3>
-      <p>A database-focused project developed as part of my computing work.</p>
-      <p><strong>Focus:</strong> Database concepts and data management.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/OrnellaSanvura/BaobabRidgeApp">Baobab Ridge App</a></h3>
-      <p>A wildlife rehabilitation records application built as a C# Windows Forms project.</p>
-      <p><strong>Focus:</strong> C#, Windows Forms, input validation, text-file handling.</p>
-    </td>
-  </tr>
 </table>
 
-*Project descriptions provide a short overview. Visit each repository for its source code and implementation details.*
+*These are existing projects viewed through a data-focused lens; descriptions do not imply that they are machine-learning projects.*
 
-## Technology toolkit
+## Current learning roadmap
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,js,html,css,git,github,vscode&perline=5" alt="Icons for programming languages and developer tools" />
-</p>
+- [ ] Strengthen Python for data analysis
+- [ ] Practise data cleaning and exploratory data analysis
+- [ ] Build SQL queries for joining, aggregating, and analysing datasets
+- [ ] Learn and apply Pandas and NumPy
+- [ ] Create clear charts and data visualisations
+- [ ] Develop end-to-end ETL and data warehousing projects
+- [ ] Explore machine learning fundamentals and model evaluation
 
-<table>
-  <tr>
-    <th align="left">Area</th>
-    <th align="left">Tools and technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Programming</strong></td>
-    <td>C#, C++, Java, Python, JavaScript</td>
-  </tr>
-  <tr>
-    <td><strong>Web development</strong></td>
-    <td>HTML, CSS, JavaScript, localStorage</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>SQL Server, database design, data modelling, ETL, data warehousing</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git, GitHub, Visual Studio, Visual Studio Code, SQL Server Management Studio</td>
-  </tr>
-</table>
-
-## GitHub overview
+## GitHub analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrnellaSanvura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics for OrnellaSanvura" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages in public repositories" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrnellaSanvura&show_icons=true&theme=radical&hide_border=true&title_color=FF4D6D&icon_color=FF4D6D" alt="GitHub profile statistics in a red theme" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&theme=radical&hide_border=true&title_color=FF4D6D&langs_count=6" alt="Most-used languages across public repositories in a red theme" height="175" />
 </p>
-
-## What I'm working towards
-
-- Growing my skills in data engineering and analytics.
-- Getting more practice with databases and data pipelines.
-- Building projects that demonstrate what I learn.
-- Becoming more confident with software development and problem-solving.
-
-## My approach
-
-1. **Learn** — understand the concepts and tools.
-2. **Build** — apply what I learn in projects.
-3. **Test** — check my work and fix issues.
-4. **Improve** — use feedback to make the next version better.
-
-## Explore my work
 
 <p align="center">
-  <a href="https://github.com/OrnellaSanvura?tab=repositories"><img src="https://img.shields.io/badge/View-Public%20Repositories-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" /></a>
-  <a href="https://github.com/OrnellaSanvura/OrnellaSanvura/commits/main/"><img src="https://img.shields.io/badge/View-Commit%20History-101827?style=for-the-badge&logo=git&logoColor=22d3ee" alt="View profile README commit history" /></a>
+  <img src="https://streak-stats.demolab.com?user=OrnellaSanvura&theme=radical&hide_border=true&ring=FF4D6D&fire=FF1744&currStreakLabel=FF4D6D" alt="GitHub contribution streak statistics in a red theme" width="70%" />
 </p>
 
-<p align="center"><em>Learning, building, and improving one project at a time.</em></p>
+## How I approach data problems
+
+1. **Understand** — identify the question and what the data represents.
+2. **Inspect** — check structure, missing values, and data quality.
+3. **Prepare** — clean and transform data where needed.
+4. **Analyse** — explore patterns and compare results carefully.
+5. **Communicate** — explain findings and limitations clearly.
+
+## Find me on GitHub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a2b,30:0d9488,65:22d3ee,100:071a2b&height=130&section=footer&animation=fadeIn" alt="Turquoise wave footer" width="100%" />
+  <a href="https://github.com/OrnellaSanvura?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-7F001B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://github.com/OrnellaSanvura/OrnellaSanvura"><img src="https://img.shields.io/badge/Profile-Ornella%20Sanvura-E11D48?style=for-the-badge&logo=github&logoColor=white" alt="View my profile repository" /></a>
 </p>
 
-<!-- External visuals and GitHub statistics are provided by third-party services. -->
+<p align="center"><strong>DATA • DISCOVERY • INSIGHT</strong><br /><sub>Learning the science behind the data, one project at a time.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120008,25:7f001b,55:e11d48,80:ff1744,100:1a0008&height=140&section=footer&animation=fadeIn" alt="Dark red and crimson wave footer" width="100%" />
+</p>
+
+<!-- Visuals and statistics are loaded from third-party services. -->
