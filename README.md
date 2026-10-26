@@ -6,6 +6,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:19000B,20:6B0F2B,45:E11D48,70:FB7185,100:4C0519&height=250&section=header&text=Ornella%20Sanvura&fontSize=52&fontColor=FFF1F2&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENCE%20GIRL%20%7C%20ANALYTICS%20%7C%20DATA%20ENGINEERING&descAlignY=58&descSize=14" alt="Animated crimson and rose pink profile banner for Ornella Sanvura" width="100%" />
 </p>
+<p align="center">
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/b7f5d18b-25fc-406f-8a35-c7b0cd2a753b" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2300&pause=650&color=FB7185&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ornella+%E2%9C%A8;Second-year+BComp+%7C+Data+Science+Student;Python+%E2%80%A2+SQL+%E2%80%A2+Data+Analytics;Pretty+in+pink%2C+serious+about+data+%F0%9F%92%BB;Turning+data+into+insights+%F0%9F%93%8A" alt="Animated typing introduction for Ornella, a data science student" />
@@ -117,36 +121,36 @@ I'm learning how to turn raw data into meaningful information through data prepa
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/OrnellaSanvura/database-project">Database Project</a></h3>
+      <h3> <a href="https://github.com/OrnellaSanvura/database-project">Database Project</a></h3>
       <p>A database-focused project supporting my learning in structured data management and database concepts.</p>
       <p><strong>Data focus:</strong> SQL concepts, data organisation, database foundations.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/OrnellaSanvura/CommunityLibrarySystem">Community Library System</a></h3>
+      <h3> <a href="https://github.com/OrnellaSanvura/CommunityLibrarySystem">Community Library System</a></h3>
       <p>A C# Windows Forms application for managing community library information.</p>
       <p><strong>Data focus:</strong> Records, input validation, information management.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐞 <a href="https://github.com/OrnellaSanvura/bug-tracking-system">Bug Tracking System</a></h3>
+      <h3> <a href="https://github.com/OrnellaSanvura/bug-tracking-system">Bug Tracking System</a></h3>
       <p>A browser-based issue tracker that uses local storage to save and manage bug records.</p>
       <p><strong>Data focus:</strong> Structured records, CRUD operations, client-side persistence.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🦒 <a href="https://github.com/OrnellaSanvura/BaobabRidgeApp">Baobab Ridge App</a></h3>
+      <h3> <a href="https://github.com/OrnellaSanvura/BaobabRidgeApp">Baobab Ridge App</a></h3>
       <p>A wildlife rehabilitation records application built with C# Windows Forms.</p>
       <p><strong>Data focus:</strong> Record validation, text-file handling, classification logic.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/OrnellaSanvura/ORION-Space-Station-Management-System">ORION Space Station Management</a></h3>
+      <h3> <a href="https://github.com/OrnellaSanvura/ORION-Space-Station-Management-System">ORION Space Station Management</a></h3>
       <p>A C# application project focused on organising operational information.</p>
       <p><strong>Focus:</strong> Application logic, structured information, software design.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧙‍♀️ <a href="https://github.com/OrnellaSanvura/Middle-Earth-Operations">Middle-Earth Operations</a></h3>
+      <h3> <a href="https://github.com/OrnellaSanvura/Middle-Earth-Operations">Middle-Earth Operations</a></h3>
       <p>A C# project exploring operational management through a themed application.</p>
       <p><strong>Focus:</strong> C#, object-oriented programming, problem-solving.</p>
     </td>
