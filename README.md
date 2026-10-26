@@ -173,10 +173,7 @@ I'm learning how to turn raw data into meaningful information through data prepa
 
 ## 📈 GitHub analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrnellaSanvura&show_icons=true&theme=radical&hide_border=true&title_color=FB7185&icon_color=F472B6&text_color=FFE4E6&bg_color=1A000A" alt="GitHub profile statistics in a cherry-red theme" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&theme=radical&hide_border=true&title_color=FB7185&text_color=FFE4E6&bg_color=1A000A&langs_count=6" alt="Most-used languages in a cherry-red theme" height="175" />
-</p>
+<p align="center"><em>Your profile and language charts are featured near the top of this README, so the same visuals are not repeated here.</em></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OrnellaSanvura&theme=radical&hide_border=true&background=1A000A&ring=FB7185&fire=F43F5E&currStreakLabel=FB7185&sideLabels=FDA4AF" alt="GitHub contribution streak statistics in red and pink" width="75%" />
