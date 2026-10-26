@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding and technology illustration" width="290" />
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-F43F5E?style=for-the-badge&logo=databricks&logoColor=white" alt="Learning and building status" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrnellaSanvura&show_icons=true&theme=radical&hide_border=true&title_color=FB7185&icon_color=F472B6&text_color=FFE4E6&bg_color=1A000A" alt="Cherry-pink GitHub analytics chart" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&theme=radical&hide_border=true&title_color=FB7185&text_color=FFE4E6&bg_color=1A000A&langs_count=5" alt="Cherry-pink programming language chart" height="170" />
 </p>
 
 <p align="center">
