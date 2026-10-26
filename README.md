@@ -1,116 +1,171 @@
-<!--
-  Ornella Sanvura | Data Science Student
-  Feminine crimson, rose-pink, and cherry-red data science profile.
--->
+<!-- Ornella Sanvura | Red and White Hacker Portfolio -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:19000B,20:6B0F2B,45:E11D48,70:FB7185,100:4C0519&height=250&section=header&text=Ornella%20Sanvura&fontSize=52&fontColor=FFF1F2&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENCE%20GIRL%20%7C%20ANALYTICS%20%7C%20DATA%20ENGINEERING&descAlignY=58&descSize=14" alt="Animated crimson and rose pink profile banner for Ornella Sanvura" width="100%" />
-</p>
-<p align="center">
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/b7f5d18b-25fc-406f-8a35-c7b0cd2a753b" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2300&pause=650&color=FB7185&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ornella+%E2%9C%A8;Second-year+BComp+%7C+Data+Science+Student;Python+%E2%80%A2+SQL+%E2%80%A2+Data+Analytics;Pretty+in+pink%2C+serious+about+data+%F0%9F%92%BB;Turning+data+into+insights+%F0%9F%93%8A" alt="Animated typing introduction for Ornella, a data science student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,30:FFE5E5,65:FF0000,100:990000&height=240&section=header&text=Ornella%20Sanvura&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=BACHELOR%20IN%20COMPUTING%20%7C%20DATA%20ENGINEERING&descAlignY=58&descSize=15" width="100%" alt="Red and white Ornella Sanvura banner" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrnellaSanvura&show_icons=true&theme=radical&hide_border=true&title_color=FB7185&icon_color=F472B6&text_color=FFE4E6&bg_color=1A000A" alt="Cherry-pink GitHub analytics chart" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&theme=radical&hide_border=true&title_color=FB7185&text_color=FFE4E6&bg_color=1A000A&langs_count=5" alt="Cherry-pink programming language chart" height="170" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=FF0000&center=true&vCenter=true&width=850&lines=%24+whoami+%3A+Ornella+Sanvura;Bachelor+in+Computing+Student;Specialising+in+Data+Engineering;Building.+Exploring.+Creating+with+Technology.;%24+keep_learning.exe+--run" alt="Animated hacker terminal introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/OrnellaSanvura?tab=repositories"><img src="https://img.shields.io/badge/MY%20PROJECTS-Explore-881337?style=for-the-badge&logo=github&logoColor=FFE4E6" alt="Explore my repositories" /></a>
-  <a href="https://github.com/OrnellaSanvura/OrnellaSanvura/commits/main/"><img src="https://img.shields.io/badge/PROFILE-Commit%20History-E11D48?style=for-the-badge&logo=git&logoColor=white" alt="View profile README commit history" /></a>
+  <a href="https://github.com/OrnellaSanvura?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ornella-sanvura-79397937b/"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn" /></a>
+  <a href="https://github.com/OrnellaSanvura"><img src="https://img.shields.io/badge/GITHUB-CC0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=13&duration=3200&pause=900&color=FDA4AF&center=true&vCenter=true&width=650&lines=%E2%9C%A6+Curious+mind.+Analytical+heart.+Data-driven+goals.+%E2%9C%A6" alt="Animated personal tagline" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrnellaSanvura&show_icons=true&hide_border=true&title_color=FF0000&icon_color=CC0000&text_color=FFFFFF&bg_color=1A0000" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=1A0000&langs_count=6" height="165" alt="Most-used programming languages" />
 </p>
 
 ---
 
-## 💗 About me
+## <code>> WHOAMI</code>
 
-Hi! I'm **Ornella Sanvura** — a **second-year Bachelor of Computing (BComp) student at Belgium Campus iTversity**, specialising in **Data Science**.
+```text
+USER        : ORNELLA SANVURA
+ROLE        : BACHELOR IN COMPUTING STUDENT
+INSTITUTION : BELGIUM CAMPUS ITVERSITY
+SPECIALITY  : DATA ENGINEERING
+LOCATION    : PRETORIA, SOUTH AFRICA
+STATUS      : LEARNING / BUILDING / EXPLORING
+```
 
-I'm learning how to turn raw data into meaningful information through data preparation, analysis, databases, and visualisation. I love a polished aesthetic, but I want the work behind it to be just as strong: logical, evidence-based, and technically sound. 🎀
+I'm **Ornella Sanvura**, a second-year Bachelor of Computing (BComp) student at **Belgium Campus iTversity**, specialising in **Data Engineering**.
+
+I'm passionate about technology and eager to build my career in IT. My studies cover programming, databases, networking, and web development, helping me develop technical and problem-solving skills.
+
+My interests include **data engineering, data science, data analysis, and software engineering**. I'm motivated to keep learning, gain practical experience, and contribute to innovative projects.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Data%20Science-F43F5E?style=flat-square" alt="Data science focus" />
-  <img src="https://img.shields.io/badge/INTEREST-Data%20Analytics-BF125D?style=flat-square" alt="Data analytics interest" />
-  <img src="https://img.shields.io/badge/ALSO%20EXPLORING-Data%20Engineering-9D174D?style=flat-square" alt="Data engineering interest" />
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ENGINEERING-FF0000?style=flat-square" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/INTEREST-DATA%20ANALYTICS-FFFFFF?style=flat-square&labelColor=CC0000" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-FF0000?style=flat-square" alt="Always learning" />
 </p>
 
-> 🌸 *A little pink, a lot of curiosity, and plenty of data to explore.*
-
-## ✨ My data science universe
+## <code>> TECH_STACK --list</code>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-Collect%20%F0%9F%93%A5-4C0519?style=for-the-badge" alt="Step one collect data" />
-  <img src="https://img.shields.io/badge/02-Clean%20%F0%9F%A7%B9-881337?style=for-the-badge" alt="Step two clean data" />
-  <img src="https://img.shields.io/badge/03-Analyse%20%F0%9F%94%8D-BE123C?style=for-the-badge" alt="Step three analyse data" />
-  <img src="https://img.shields.io/badge/04-Visualise%20%F0%9F%93%88-F43F5E?style=for-the-badge" alt="Step four visualise data" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,cs,java,git,github,vscode&perline=5" alt="Python, HTML, CSS, JavaScript, C++, C sharp, Java, Git, GitHub and VS Code" />
 </p>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>📊 Data science & analytics</h3>
-      <ul>
-        <li>Exploring datasets and finding patterns</li>
-        <li>Data cleaning and preparation</li>
-        <li>Statistical thinking and interpretation</li>
-        <li>Charts, reporting, and communicating insights</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🧬 Data engineering foundations</h3>
-      <ul>
-        <li>SQL and relational databases</li>
-        <li>Data modelling and schema design</li>
-        <li>ETL and data warehousing concepts</li>
-        <li>Data quality, validation, and structured storage</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 🎀 My technical toolkit
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,visualstudio,js,html,css&perline=5" alt="Programming, database, and developer tool icons" />
+  <img src="https://img.shields.io/badge/PYTHON-FF0000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/EXCEL-FFFFFF?style=for-the-badge&logo=microsoftexcel&logoColor=CC0000" alt="Excel" />
+  <img src="https://img.shields.io/badge/DATABASES-CC0000?style=for-the-badge&logo=databricks&logoColor=white" alt="Databases" />
+  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF0000" alt="SQL" />
+  <img src="https://img.shields.io/badge/POWER%20BI-FF0000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=FF0000" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-CC0000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
 <table align="center">
   <tr>
-    <th align="center">💻 Area</th>
-    <th align="center">🩷 Tools & skills</th>
+    <th align="left">AREA</th>
+    <th align="left">TECHNOLOGIES AND SKILLS</th>
   </tr>
   <tr>
-    <td align="center"><strong>Programming</strong></td>
-    <td align="center">Python, SQL, C#, C++, Java, JavaScript</td>
+    <td>Programming</td>
+    <td>Python, C++, C#, Java, JavaScript</td>
   </tr>
   <tr>
-    <td align="center"><strong>Data management</strong></td>
-    <td align="center">SQL Server, relational databases, data modelling, schema design</td>
+    <td>Web Development</td>
+    <td>HTML, CSS, JavaScript</td>
   </tr>
   <tr>
-    <td align="center"><strong>Data engineering</strong></td>
-    <td align="center">ETL concepts, data warehousing, data transformation, data validation</td>
+    <td>Databases</td>
+    <td>SQL, SQL Server, relational databases, data modelling</td>
   </tr>
   <tr>
-    <td align="center"><strong>Analytics foundations</strong></td>
-    <td align="center">Data exploration, statistics, analytical reasoning, reporting and visualisation concepts</td>
+    <td>Data Engineering</td>
+    <td>ETL concepts, data transformation, data validation, data warehousing concepts</td>
   </tr>
   <tr>
-    <td align="center"><strong>Developer tools</strong></td>
-    <td align="center">Git, GitHub, Visual Studio, Visual Studio Code, SQL Server Management Studio</td>
+    <td>Data Analysis</td>
+    <td>Excel, Power BI, data exploration, reporting and visualisation</td>
+  </tr>
+  <tr>
+    <td>Developer Tools</td>
+    <td>Git, GitHub, Visual Studio, Visual Studio Code, SQL Server Management Studio</td>
   </tr>
 </table>
 
+## <code>> DATA_PIPELINE.exe</code>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=2500&pause=700&color=F472B6&center=true&vCenter=true&width=620&lines=Learning+one+query+at+a+time...;Cleaning+up+those+datasets...;Finding+the+story+behind+the+numbers...;Always+growing+%F0%9F%8C%B7" alt="Animated data science learning messages" />
+  <img src="https://img.shields.io/badge/01-INGEST-FF0000?style=for-the-badge" alt="Ingest" />
+  <img src="https://img.shields.io/badge/02-TRANSFORM-FFFFFF?style=for-the-badge&labelColor=CC0000" alt="Transform" />
+  <img src="https://img.shields.io/badge/03-STORE-FF0000?style=for-the-badge" alt="Store" />
+  <img src="https://img.shields.io/badge/04-ANALYSE-FFFFFF?style=for-the-badge&labelColor=CC0000" alt="Analyse" />
+  <img src="https://img.shields.io/badge/05-VISUALISE-FF0000?style=for-the-badge" alt="Visualise" />
 </p>
 
+I'm building my understanding of how data moves from its source through cleaning and transformation into organised databases and useful reports. I'm especially interested in reliable data pipelines and turning information into something useful.
+
+## <code>> ls ./projects</code>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OrnellaSanvura/bug-tracking-system">Bug Tracking System</a></h3>
+      A web application for recording and managing software issues.
+      <br/><strong>Technologies:</strong> JavaScript, HTML, CSS, localStorage
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OrnellaSanvura/CommunityLibrarySystem">Community Library System</a></h3>
+      A C# Windows Forms application for managing library information and records.
+      <br/><strong>Technologies:</strong> C#, Windows Forms
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OrnellaSanvura/BaobabRidgeApp">Baobab Ridge App</a></h3>
+      A wildlife rehabilitation records system focused on validation, file handling and animal classification.
+      <br/><strong>Technologies:</strong> C#, .NET, text files
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OrnellaSanvura/ORION-Space-Station-Management-System">ORION Space Station Management</a></h3>
+      A C# project focused on organising operational information.
+      <br/><strong>Technology:</strong> C#
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OrnellaSanvura/Middle-Earth-Operations">Middle-Earth Operations</a></h3>
+      A themed C# application exploring operational management and software design.
+      <br/><strong>Technology:</strong> C#
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OrnellaSanvura?tab=repositories">More Projects</a></h3>
+      Explore my repositories for more programming, database and computing projects.
+      <br/><strong>Status:</strong> Always building
+    </td>
+  </tr>
+</table>
+
+## <code>> ROADMAP --next</code>
+
+- [ ] Strengthen Python for data analysis and automation
+- [ ] Practise SQL queries and database design
+- [ ] Build reports and dashboards using Excel and Power BI
+- [ ] Create practical ETL and data warehousing projects
+- [ ] Explore cloud data platforms
+- [ ] Continue improving programming and problem-solving skills
+
+## <code>> GITHUB --metrics</code>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OrnellaSanvura&hide_border=true&background=1A0000&ring=FF0000&fire=CC0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub contribution streak in red and white" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=15&duration=2600&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=%3E+Build+better+systems.;%3E+Make+data+useful.;%3E+Learn.+Build.+Repeat." alt="Animated terminal closing message" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/OrnellaSanvura?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
+  <a href="https://www.linkedin.com/in/ornella-sanvura-79397937b/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="Connect on LinkedIn" /></a>
+</p>
+
+<p align="center"><code>SESSION ACTIVE // KEEP LEARNING // KEEP BUILDING</code></p>
