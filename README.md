@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7f5d18b-25fc-406f-8a35-c7b0cd2a753b" width="600" alt="Ornella's coding setup illustration" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=FF69B4&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Ornella+Sanvura;Second-year+BComp+%7C+Data+Science+Student;Python+%7C+SQL+%7C+Data+Analytics;Turning+data+into+insights;Learn.+Build.+Analyse.+Repeat." alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=FF69B4&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Ornella+Sanvura;Second-year+BComp+%7C+Data+Science+Student;Python+%7C+SQL+%7C+Data+Analytics;Turning+data+into+insights;Learn.+Build.+Analyse.+Repeat." alt="Animated introduction" />
+  <img src="https://solveuy.com/assets/software-medida-CS8s--Z_.jpg" width="600" alt="Pink coding workspace with laptop and accessories" />
 </p>
 
 <p align="center">
