@@ -29,7 +29,7 @@
 ## 🎀 TECHNOLOGY TOOLKIT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,cpp,git,github,vscode&perline=6" alt="Programming and development tools" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,cpp,dotnet,visualstudio,vscode,git,github&perline=6" alt="Programming and development tools" />
 </p>
 
 <p align="center">
