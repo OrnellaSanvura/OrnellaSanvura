@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://solveuy.com/assets/software-medida-CS8s--Z_.jpg" width="600" alt="Pink coding workspace with laptop and accessories" />
+  <img src="https://github.com/user-attachments/assets/b7f5d18b-25fc-406f-8a35-c7b0cd2a753b" width="600" alt="Ornella's coding setup illustration" />
 </p>
 
 <p align="center">
