@@ -23,6 +23,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&hide_border=true&title_color=FF69B4&text_color=8B5D70&bg_color=FFF0F5&langs_count=8" height="165" alt="Programming language statistics" />
 </p>
 
+
+---
+
+## 🎀 TECHNOLOGY TOOLKIT
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,cpp,git,github,vscode&perline=6" alt="Programming and development tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20%7C%20SQL%20Server-DB7093?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL and SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white" alt="Microsoft Power BI" />
+  <img src="https://img.shields.io/badge/Excel%20Dashboards-DB7093?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel dashboards" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-FF69B4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Facebook%20Ads-DB7093?style=for-the-badge&logo=meta&logoColor=white" alt="Facebook Ads" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Modeling-FFF0F5?style=flat-square&labelColor=FFF0F5&color=FFF0F5" alt="Data modeling" />
+  <img src="https://img.shields.io/badge/Data%20Warehousing-FFF0F5?style=flat-square&labelColor=FFF0F5&color=FFF0F5" alt="Data warehousing" />
+  <img src="https://img.shields.io/badge/ETL-FFF0F5?style=flat-square&labelColor=FFF0F5&color=FFF0F5" alt="Extract Transform Load" />
+  <img src="https://img.shields.io/badge/Data%20Reporting-FFF0F5?style=flat-square&labelColor=FFF0F5&color=FFF0F5" alt="Data reporting" />
+  <img src="https://img.shields.io/badge/KPI%20Dashboards-FFF0F5?style=flat-square&labelColor=FFF0F5&color=FFF0F5" alt="KPI dashboards" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-FFF0F5?style=flat-square&labelColor=FFF0F5&color=FFF0F5" alt="Problem solving" />
+  <img src="https://img.shields.io/badge/Project%20Management-FFF0F5?style=flat-square&labelColor=FFF0F5&color=FFF0F5" alt="Project management" />
+  <img src="https://img.shields.io/badge/Entrepreneurship-FFF0F5?style=flat-square&labelColor=FFF0F5&color=FFF0F5" alt="Entrepreneurship" />
+</p>
+
 ---
 
 ## 💗 ABOUT ME
