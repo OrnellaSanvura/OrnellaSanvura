@@ -25,6 +25,8 @@
 
 ---
 
-## &gt; WHOAMI
+## 💗 ABOUT ME
 
+I am a second-year Bachelor of Computer Science (BComp) student at Belgium Campus, passionate about technology and eager to build my career in the IT field. My current studies focus on programming, databases, networking, and web development, giving me a strong foundation in both technical and problem-solving skills.
 
+I am motivated to keep learning, developing practical experience, and contributing to innovative projects. My interests include **ML Engineering, Data Engineering, Data Science, and Data Analysis**. I am open to opportunities that allow me to grow my skills and gain real-world exposure to the IT industry.
