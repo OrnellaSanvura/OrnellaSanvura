@@ -62,3 +62,26 @@
 I am a second-year Bachelor of Computer Science (BComp) student at Belgium Campus, passionate about technology and eager to build my career in the IT field. My current studies focus on programming, databases, networking, and web development, giving me a strong foundation in both technical and problem-solving skills.
 
 I am motivated to keep learning, developing practical experience, and contributing to innovative projects. My interests include **ML Engineering, Data Engineering, Data Science, and Data Analysis**. I am open to opportunities that allow me to grow my skills and gain real-world exposure to the IT industry.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+little+corner+of+GitHub!+%E2%99%A1;Keep+learning.+Keep+building.+Keep+growing.+%E2%9C%A8;Let%27s+create+something+meaningful+together!+%F0%9F%8C%B8" alt="Thanks for visiting" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/OrnellaSanvura?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20projects-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/ornella-sanvura-79397937b/">
+    <img src="https://img.shields.io/badge/Let's%20connect-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=DB7093" alt="Let's connect on LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Made with ♡, curiosity, and a little bit of pink.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFB6D5,100:FFF0F5&height=120&section=footer" width="100%" alt="Pink waving footer" />
+</p>
