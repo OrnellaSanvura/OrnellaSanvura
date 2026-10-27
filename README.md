@@ -27,6 +27,10 @@
 
 ## 💗 ABOUT ME
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=16&duration=2400&pause=650&color=DB7093&center=true&vCenter=true&width=950&lines=Second-year+BComp+student+at+Belgium+Campus;Passionate+about+technology+and+the+IT+industry;Building+skills+in+programming%2C+databases%2C+networking+and+web+development;Interested+in+ML+Engineering+%7C+Data+Engineering;Exploring+Data+Science+%7C+Data+Analysis;Learning%2C+building+and+growing+through+real-world+projects" alt="Animated About Me highlights" />
+</p>
+
 I am a second-year Bachelor of Computer Science (BComp) student at Belgium Campus, passionate about technology and eager to build my career in the IT field. My current studies focus on programming, databases, networking, and web development, giving me a strong foundation in both technical and problem-solving skills.
 
 I am motivated to keep learning, developing practical experience, and contributing to innovative projects. My interests include **ML Engineering, Data Engineering, Data Science, and Data Analysis**. I am open to opportunities that allow me to grow my skills and gain real-world exposure to the IT industry.
