@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7f5d18b-25fc-406f-8a35-c7b0cd2a753b" width="600" alt="Ornella's coding setup illustration" />
+  <img src="https://github.com/user-attachments/assets/b7f5d18b-25fc-406f-8a35-c7b0cd2a753b" width="500" alt="Ornella's coding setup illustration" />
 </p>
 
 <p align="center">
