@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=FF69B4&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Ornella+Sanvura;Second-year+BComp+%7C+Data+Science+Student;Python+%7C+SQL+%7C+Data+Analytics;Turning+data+into+insights;Learn.+Build.+Analyse.+Repeat." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=FF69B4&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Ornella+Sanvura;Second-year+BComp+%7C+Data+Science+Student;Python+%7C+Data+Engineering+%7C+ML+Engineering;Turning+data+into+insights;Learn.+Build.+Analyse.+Repeat." alt="Animated introduction" />
 </p>
 
 <p align="center">
