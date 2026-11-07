@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrnellaSanvura&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=DB7093&text_color=8B5D70&bg_color=FFF0F5&cache_seconds=86400&v=3" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&hide_border=true&title_color=FF69B4&text_color=8B5D70&bg_color=FFF0F5&langs_count=8&cache_seconds=86400&v=3" height="165" alt="Programming language statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=OrnellaSanvura&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=DB7093&text_color=8B5D70&bg_color=FFF0F5&cache_seconds=86400&v=3" height="165" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OrnellaSanvura&layout=compact&hide_border=true&title_color=FF69B4&text_color=8B5D70&bg_color=FFF0F5&langs_count=8&cache_seconds=86400&v=3" height="165" alt="Programming language statistics" />
 </p>
 
 
